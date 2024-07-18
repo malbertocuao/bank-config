@@ -2,7 +2,7 @@ build:
   version: "v0.0.2"
 
 support:
-  message: "Bienvenidos al sistema bancario (Cuentas) Accenture | GIT MODIFIED"
+  message: "Bienvenidos al sistema bancario (Cuentas) Accenture | GIT MODIFIED --*--"
   contactInfo:
     name: "Max Alberto Cuao"
     email: "malbertocuao@gmail.com"
