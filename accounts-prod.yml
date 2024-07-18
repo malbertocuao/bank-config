@@ -2,7 +2,7 @@ build:
   version: "v0.0.2"
 
 support:
-  message: "Bienvenidos al sistema Cuentas de Accenture - Sistema en Produccion"
+  message: "Bienvenidos al sistema Cuentas de Accenture - Sistema en Produccion | GIT MODIFIED"
   contactInfo:
     name: "Product Owner - Cuentas"
     email: "product.owner@gmail.com"
