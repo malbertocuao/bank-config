@@ -2,7 +2,7 @@ build:
   version: "v0.0.2"
 
 support:
-  message: "Bienvenidos al sistema Cuentas de Accenture - Sistema en Pruebas"
+  message: "Bienvenidos al sistema Cuentas de Accenture - Sistema en Pruebas | GIT MODIFIED"
   contactInfo:
     name: "QA - Cuentas"
     email: "product.tester@gmail.com"
