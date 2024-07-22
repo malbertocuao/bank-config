@@ -2,7 +2,7 @@ build:
   version: "v0.0.2"
 
 support:
-  message: "Bienvenidos al sistema Clientes de Accenture - Sistema en Produccion | RABBITMQ"
+  message: "Bienvenidos al sistema Clientes de Accenture - Sistema en Produccion | RABBITMQ MODIFICADO"
   contactInfo:
     name: "Product Owner - Cuentas"
     email: "product.owner@gmail.com"
