@@ -4,7 +4,7 @@ build:
 support:
   message: "Bienvenidos al sistema Cuentas de Accenture - Sistema en Produccion | RABBITMQ MODIFICADO"
   contactInfo:
-    name: "Product Owner - Cuentas"
+    name: "Production Software - Cuentas"
     email: "product.owner@gmail.com"
   phoneNumbers:
     - "(57) 3057459906"
